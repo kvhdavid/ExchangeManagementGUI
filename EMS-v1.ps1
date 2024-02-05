@@ -16,6 +16,9 @@ Add-PSSnapIn Microsoft.Exchange.Management.PowerShell.RecipientManagement
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
+# Enable Visual Styles 
+[System.Windows.Forms.Application]::EnableVisualStyles()
+
 function Create-Gui {
     # Create the main form
     $form = New-Object System.Windows.Forms.Form
