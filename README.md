@@ -12,6 +12,9 @@ Features Include
 - View All Mailboxes
 - Search Tool
 
+FYI
+- Before creating your first mailbox you will have to change "example.com" in Line 160 with your domain.
+
 
 Prerequisites
 - Exchange 2019 Management Tools https://learn.microsoft.com/en-us/exchange/plan-and-deploy/post-installation-tasks/install-management-tools?view=exchserver-2019
