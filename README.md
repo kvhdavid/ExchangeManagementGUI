@@ -18,5 +18,5 @@ FYI
 
 Prerequisites
 - Exchange 2019 Management Tools https://learn.microsoft.com/en-us/exchange/plan-and-deploy/post-installation-tasks/install-management-tools?view=exchserver-2019
-  
+- Azure AD Sync (For sync feature) https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-install-roadmap#install-azure-ad-connect
 
